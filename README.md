@@ -2,9 +2,9 @@
 
 # Introduction
 
-This project demonstrates how katalon studio helps users to use their existing selenium based project into Katalon Studio. Katalon support Selenium TestNG and Selenium Based farmework both.
+This project demonstrates how katalon studio helps users to use their existing selenium based project into Katalon Studio. Katalon supports Selenium TestNG and Selenium Based framework both.
 
-# Requriments
+# Requirements
 
 * Katalon Studio
 * Basic understanding of Junit and TestNG
