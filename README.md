@@ -28,6 +28,10 @@ Data driven test execution
 
 ![image](https://user-images.githubusercontent.com/84115288/206732309-a571e320-d51b-4e80-81be-62f2e9999adf.png)
 
+* Change web driver configurion as per screenshot mentioned below.
+
+![Uploading image.png…]()
+
 * Users have to fix all the errors.)Most of the errors are related to the project import so users have to add a proper path for package structure into the import section.)
 
 * Create a resource folder and add the testng.xml file.
@@ -35,7 +39,7 @@ Data driven test execution
 ![image](https://user-images.githubusercontent.com/84115288/206732800-a19cc136-ec15-4c14-8454-5fbc2a683e69.png)
 
 
-* Create a test case by using TestNg or Junit Custom keyword.
+* Create a test case by using TestNG or Junit Custom keyword.
 
 ![image](https://user-images.githubusercontent.com/84115288/206733103-858a3fd5-3403-4a8d-84f8-44ef782f984a.png)
 
