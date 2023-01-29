@@ -30,7 +30,7 @@ Data driven test execution
 
 * Change web driver configurion as per screenshot mentioned below.
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/84115288/215331198-37dd231b-aa50-475c-8d9d-63e23b62ae53.png)
 
 * Users have to fix all the errors.)Most of the errors are related to the project import so users have to add a proper path for package structure into the import section.)
 
