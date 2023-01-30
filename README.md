@@ -1,5 +1,4 @@
 
-
 # Introduction
 
 This project demonstrates how katalon studio helps users to use their existing selenium based project into Katalon Studio. Katalon supports selenium testNG and selenium based framework both.
