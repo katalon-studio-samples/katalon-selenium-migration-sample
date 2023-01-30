@@ -2,7 +2,7 @@
 
 # Introduction
 
-This project demonstrates how katalon studio helps users to use their existing selenium based project into Katalon Studio. Katalon supports Selenium TestNG and Selenium Based framework both.
+This project demonstrates how katalon studio helps users to use their existing selenium based project into Katalon Studio. Katalon supports selenium testNG and selenium based framework both.
 
 # Requirements
 
@@ -17,12 +17,12 @@ We have two different application which we have used for our sample project
 * BBC **(http://www.bbc.com)**
 * Heroku application **(https://signup.heroku.com/)**		
 
-Normal Test script execution
+Normal test script execution
 Data driven test execution
 
 # How to migrate
 
-* Downlaod and extract the TestNG or Junit based framework.
+* Downlaod and extract the testNG or junit based framework.
 
 * Add all your project file into Include >> Script >>groovy
 
@@ -32,18 +32,18 @@ Data driven test execution
 
 ![image](https://user-images.githubusercontent.com/84115288/215331198-37dd231b-aa50-475c-8d9d-63e23b62ae53.png)
 
-* Users have to fix all the errors.)Most of the errors are related to the project import so users have to add a proper path for package structure into the import section.)
+* Users have to fix all the errors.(most of the errors are related to the project import so users have to add a proper path for package structure into the import section.)
 
 * Create a resource folder and add the testng.xml file.
 
 ![image](https://user-images.githubusercontent.com/84115288/206732800-a19cc136-ec15-4c14-8454-5fbc2a683e69.png)
 
 
-* Create a test case by using TestNG or Junit Custom keyword.
+* Create a test case by using testNG or junit custom keyword.
 
 ![image](https://user-images.githubusercontent.com/84115288/206733103-858a3fd5-3403-4a8d-84f8-44ef782f984a.png)
 
-* Run the test on the browser and Verify the results
+* Run the test on the browser and verify the results
 
 ![image](https://user-images.githubusercontent.com/84115288/206733323-c1c4338d-ff7b-4c57-9bcb-441a58cf3a42.png)
 
