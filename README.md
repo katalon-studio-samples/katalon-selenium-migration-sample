@@ -8,7 +8,7 @@ This project demonstrates how katalon studio helps users to use their existing s
 
 * Katalon Studio
 * Basic understanding of Junit and TestNG
-* TestNG/Junit Keywords(https://store.katalon.com/product/180/TestNG-JUnit-Keywords)
+* TestNG/Junit Keywords. [Here][2]
 
 
 # Use case
@@ -53,3 +53,4 @@ For More Details - [Selenium/TestNG/JUnit Migration to Katalon Studio][1]
 https://github.com/katalon-studio-samples/katalon-selenium-migration-sample.git
 
 [1]: <https://docs.katalon.com/docs/get-started/migration-from-other-tools/seleniumtestngjunit-migration-to-katalon-studio#ariaid-title1> "Selenium/TestNG/JUnit Migration to Katalon Studio"
+[2]: <https://store.katalon.com/product/180/TestNG-JUnit-Keywords> "Here"
