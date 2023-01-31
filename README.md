@@ -7,7 +7,7 @@ This project demonstrates how katalon studio helps users to use their existing s
 
 * [Katalon Studio][KS]
 * Basic understanding of Junit and TestNG
-* TestNG/Junit Keywords. [Here][2]
+* [TestNG/Junit Keywords][2].
 
 
 # Use case
@@ -42,7 +42,8 @@ Data driven test execution
 
 ![image](https://user-images.githubusercontent.com/84115288/206733103-858a3fd5-3403-4a8d-84f8-44ef782f984a.png)
 
-* Run the test on the browser and verify the results
+* Run the test execution. [Here][5]
+* Verify the test execution results. [Here][6]
 
 ![image](https://user-images.githubusercontent.com/84115288/206733323-c1c4338d-ff7b-4c57-9bcb-441a58cf3a42.png)
 
@@ -52,5 +53,8 @@ For More Details - [Selenium/TestNG/JUnit Migration to Katalon Studio][1]
 https://github.com/katalon-studio-samples/katalon-selenium-migration-sample.git
 
 [1]: <https://docs.katalon.com/docs/get-started/migration-from-other-tools/seleniumtestngjunit-migration-to-katalon-studio#ariaid-title1> "Selenium/TestNG/JUnit Migration to Katalon Studio"
-[2]: <https://store.katalon.com/product/180/TestNG-JUnit-Keywords> "Here"
+[2]: <https://store.katalon.com/product/180/TestNG-JUnit-Keywords> "TestNG/Junit Keywords"
 [KS]: <https://docs.katalon.com/docs/get-started/katalon-studio-installation/install-katalon-studio-on-macoswindows#download-katalon-studio> "Katalon Studio"
+
+[5]: <https://docs.katalon.com/docs/execute/execute-tests-with-katalon-studio/execute-tests-with-katalon-studio-overview#ariaid-title1> "Here"
+[6]: <https://docs.katalon.com/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-results-and-execution-logs-in-katalon-testops#ariaid-title1> "Here"
