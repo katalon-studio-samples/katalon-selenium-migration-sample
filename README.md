@@ -38,7 +38,7 @@ Data driven test execution
 ![image](https://user-images.githubusercontent.com/84115288/206732800-a19cc136-ec15-4c14-8454-5fbc2a683e69.png)
 
 
-* Create a test case by using testNG or junit custom keyword.
+* Create a test case by using TestNG or Junit custom keyword.
 
 ![image](https://user-images.githubusercontent.com/84115288/206733103-858a3fd5-3403-4a8d-84f8-44ef782f984a.png)
 
