@@ -50,9 +50,10 @@ Data driven test execution
 ![image](https://user-images.githubusercontent.com/84115288/206733323-c1c4338d-ff7b-4c57-9bcb-441a58cf3a42.png)
 
 
-**For More Details - [Selenium/TestNG/JUnit Migration to Katalon Studio][1]**
 
-**Repository for the [Sample Project][SP]:**
+**For More Details - [Selenium/TestNG/JUnit Migration to Katalon Studio][1].**
+
+**Repository for the [Sample Project][SP].**
 
 [SP]: <https://github.com/katalon-studio-samples/katalon-selenium-migration-sample.git> "Sample Project"
 
