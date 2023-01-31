@@ -21,19 +21,19 @@ Data driven test execution
 
 # How to migrate
 
-* Downlaod and extract the testNG or junit based framework.
+* Downlaod and extract the Junit and TestNG based framework.
 
 * Add all your project file into Include >> Script >>groovy
 
 ![image](https://user-images.githubusercontent.com/84115288/206732309-a571e320-d51b-4e80-81be-62f2e9999adf.png)
 
-* Change web driver configurion as per screenshot mentioned below.
+* Change webdriver configurion as per screenshot mentioned below.
 
 ![image](https://user-images.githubusercontent.com/84115288/215331198-37dd231b-aa50-475c-8d9d-63e23b62ae53.png)
 
 * Users have to fix all the errors.(most of the errors are related to the project import so users have to add a proper path for package structure into the import section.)
 
-* Create a resource folder and add the testng.xml file.
+* Create a resource folder and add the Testng.xml file.
 
 ![image](https://user-images.githubusercontent.com/84115288/206732800-a19cc136-ec15-4c14-8454-5fbc2a683e69.png)
 
