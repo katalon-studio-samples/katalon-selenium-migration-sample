@@ -53,10 +53,6 @@ Data driven test execution
 
 **For More Details - [Selenium/TestNG/JUnit Migration to Katalon Studio][1].**
 
-**Repository for the [Sample Project][SP].**
-
-[SP]: <https://github.com/katalon-studio-samples/katalon-selenium-migration-sample.git> "Sample Project"
-
 [1]: <https://docs.katalon.com/docs/get-started/migration-from-other-tools/seleniumtestngjunit-migration-to-katalon-studio#ariaid-title1> "Selenium/TestNG/JUnit Migration to Katalon Studio"
 [2]: <https://store.katalon.com/product/180/TestNG-JUnit-Keywords> "TestNG/Junit Keywords"
 [KS]: <https://docs.katalon.com/docs/get-started/katalon-studio-installation/install-katalon-studio-on-macoswindows#download-katalon-studio> "Katalon Studio"
